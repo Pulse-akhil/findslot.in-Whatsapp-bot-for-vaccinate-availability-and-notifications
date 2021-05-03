@@ -1,0 +1,11 @@
+{
+  "table": [
+    { "name": "Mumbai", "districtID": 395 },
+    { "name": "Bangalore", "districtID": 265 },
+    { "name": "Central Delhi", "districtID": 141 },
+    { "name": "East Delhi", "districtID": 145 },
+    { "name": "Delhi", "districtID": 140 },
+    { "name": "North Delhi", "districtID": 146 },
+    { "name": "Ahmedabad", "districtID": 154 }
+  ]
+}
