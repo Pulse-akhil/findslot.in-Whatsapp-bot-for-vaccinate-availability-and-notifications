@@ -15,7 +15,9 @@ As of May 1st only 1.8M users[1] got vaccinated versus the 2.7M users[2] that go
 ### Builders
 
 Shubhendu Sharma - WifiDabba - Twitter - @ShubhenduSharma
+
 Akhil Jayaprakash - Amazon - Twitter - @akhiljp_dev
+
 Abhishek Ghosh - Amazon - Twitter - @ghoshbaaboo
 
 ### Partners
